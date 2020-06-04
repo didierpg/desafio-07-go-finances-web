@@ -70,6 +70,7 @@ export const TableContainer = styled.section`
       font-size: 16px;
       font-weight: normal;
       color: #969cb3;
+      white-space: nowrap;
 
       &.title {
         color: #363f5f;
